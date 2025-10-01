@@ -116,23 +116,3 @@ matplotlib
 > ```bash
 > pip freeze > requirements.txt
 > ```
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository, raise issues, or submit pull requests for improvements.
-
----
-
-## 📫 Contact
-
-For project-related inquiries or collaboration requests:
-📧 [basakupangshu70@gmail.com](mailto:basakupangshu70@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/upangshu-basak/)
